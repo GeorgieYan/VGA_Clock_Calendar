@@ -16,6 +16,6 @@ instructions:
   - connect Basys 3 and program it in Vivado
   - connect Basys 3 to a monitor through VGA port
   - adjust time and date with switches and buttons
-  - reset with switch 2
+  - reset to 2000.1.1 with switch 2 when it initially starts with 2001.11.14
 
 results
