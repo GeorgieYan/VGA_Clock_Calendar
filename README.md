@@ -18,5 +18,5 @@ instructions:
   - adjust time and date with switches and buttons
   - reset to 2002.1.1 with switch 2 when it initially starts with 2001.11.14
 
-results
+results: 
 ![Screenshot (52)](https://user-images.githubusercontent.com/46608695/173975396-87f91ae9-f957-40ef-abf9-67a28e8e39a9.png)
