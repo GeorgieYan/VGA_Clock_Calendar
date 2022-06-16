@@ -1,3 +1,5 @@
+Clock and Calendar with VGA display on Basys 3 board
+
 included files
   -
   
